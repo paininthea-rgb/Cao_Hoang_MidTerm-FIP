@@ -57,6 +57,9 @@ svg:hover {
 	transform: scale(1.1);
 	cursor: pointer;
 }
+#logoBGgreen:hover{
+	fill: #fe8402;
+}
 
 #mainNav
 {
@@ -97,6 +100,9 @@ svg:hover {
 	font-weight: 100;
 	font-size: 12px;
 	text-decoration: none;
+}
+#mainNav ul li a:hover{
+	cursor: pointer;
 }
 
 /* hero image */
@@ -211,24 +217,26 @@ svg:hover {
 #footerNav ul li a:hover
 {
 	transform: scale(1.1);
+	cursor: pointer;
 }
 
 /* contact page */
-#contactForm{
+#contactForm
+{
 	border-radius: 5px;
-	background-color: #696969;
+	background-color: #ccc;
 	padding: 20px;
 }
 input select textarea {
+	border-radius: 1px;
 	width: 100%;
 	border: 1px solid #000;
 	margin-top: 10px;
 	margin-bottom: 20px;
-	/* resize: vertical; */
 }
 
 #contact h3{
-	font-family: Arial, times, sans-serif;
+	font-family: 'Montserrat', times, sans-serif;
 	font-size: 36px;
 	font-weight: bolder;
 }
