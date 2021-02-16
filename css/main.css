@@ -58,6 +58,10 @@ svg:hover {
 	cursor: pointer;
 }
 
+#logoBGgreen:hover {
+	fill: #fe8402;
+}
+
 #mainNav
 {
 	margin-left: 600px;
@@ -167,6 +171,7 @@ svg:hover {
 	width: 300px;
 	height: 400px;
 }
+
 
 .typoProduct h2 {
 	padding-top: 20px;
