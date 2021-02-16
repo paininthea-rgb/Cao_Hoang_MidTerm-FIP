@@ -4,7 +4,7 @@
 
 I was assigned 2 brands which is Modelo and Scotts Turf Builder, and this is my Mid-Term check point for FIP and I have some point want to show to you.
 
-![Renting house vs buying house](logo.png "Mid term FIP")
+![Logo for this brand](logo.png "Mid term FIP")
 
 ## Section 2: Arguing against buying a house
 
