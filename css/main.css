@@ -216,27 +216,41 @@ svg:hover {
 
 #footerNav ul li a:hover
 {
-	transform: scale(1.1);
 	cursor: pointer;
 }
 
 /* contact page */
 #contactForm
 {
+	width: 400px;
+	margin: 0 auto;
+	display: block;
 	border-radius: 5px;
 	background-color: #ccc;
-	padding: 20px;
+	padding: 30px;
 }
-input select textarea {
-	border-radius: 1px;
+
+#contactForm h3{
+	font-family: 'Montserrat', times, sans-serif;
+	font-size: 24px;
+	font-weight: bolder;
+	padding-bottom: 20px;
+
+}
+
+#contactForm input textarea{
+	border-radius: 5px;
 	width: 100%;
 	border: 1px solid #000;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
 
-#contact h3{
-	font-family: 'Montserrat', times, sans-serif;
-	font-size: 36px;
-	font-weight: bolder;
+#contactForm input {
+	margin-left: 10px;
+}
+
+#message{
+	resize: none;
+	height: 200px;
 }
