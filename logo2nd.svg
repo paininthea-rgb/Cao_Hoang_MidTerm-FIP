@@ -34,6 +34,11 @@
         font-size: 8.52px;
         font-family: MyriadPro-Regular, Myriad Pro;
       }
+
+      #logoText:hover{
+      fill: red! important;
+      }
+
     </style>
   </defs>
   <title>logo2nd</title>
