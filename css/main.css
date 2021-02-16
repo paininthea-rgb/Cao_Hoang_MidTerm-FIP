@@ -58,8 +58,6 @@ svg:hover {
 	cursor: pointer;
 }
 
-#logoText:hover {fill: #51A5BA;}
-
 #mainNav
 {
 	margin-left: 600px;
@@ -151,20 +149,24 @@ svg:hover {
 
 #product1
 {
+	margin: 0 auto;
 	margin-top: 120px;
 	/* background : #DCFF8B; */
 	display: block;
 	width: 300px;
 	height: 400px;
+
 }
 
 #product2
 {
+	margin: 0 auto;
 	margin-top: 120px;
 	/* background : #DCFF8B; */
 	display: inline;
 	width: 300px;
 	height: 400px;
+
 }
 
 /* footer */
