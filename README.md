@@ -4,6 +4,7 @@
 
 I was assigned 2 brands which is Modelo and Scotts Turf Builder, and this is my Mid-Term check point for FIP and I have some point want to show to you.
 
+ dev.hcl.readme
 ![label](Label-100.jpg "Mid term FIP")
 
 ## What is attraction on my website
