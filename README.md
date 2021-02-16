@@ -4,11 +4,10 @@
 
 I was assigned 2 brands which is Modelo and Scotts Turf Builder, and this is my Mid-Term check point for FIP and I have some point want to show to you.
 
-![Logo for this brand](logo2nd.svg "Mid term FIP")
+ dev.hcl.readme
+![label](Label-100.jpg "Mid term FIP")
 
-## Section 2: Arguing against buying a house
+## What is attraction on my website
 
-![Renting house vs buying house](rental.jpg "Mid term argument")
-Renting house advantages
-
-Fewer (if any) maintenance costs No down payment required (less deposit) No real estate taxes (renters insurance optional) Less stress (who cares, it’s not yours!) Freedom to move or downsize when necessary No risk of home price depreciation Some utility bills may be included “Free” amenities such as pool, gym, security Money can be used for other, more profitable investments Can’t be foreclosed on
+![logo](logo2nd.svg "Mid term FIP")
+My logo is interactive and I tried to link it with my JS to know how many time people click on the logo
